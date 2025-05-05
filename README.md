@@ -1,7 +1,7 @@
-# Hi there I'm ATKDEV 👋, and 🌱 I’m currently learning ...
+# Hi there I'm ATKLA 👋, and 🌱 I’m currently learning ...
 
 <!--
-**KANTEKY/KANTEKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ATKLA/ATKLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
