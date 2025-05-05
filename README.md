@@ -29,7 +29,9 @@ class ATKLA:
         print("- Planificando mi próximo viaje ✈️")
         print("- Explorando nuevos sabores 🍜")
         print("\n¡Gracias por visitar mi perfil! 😊")
-    
+
+me = ATKLA()
+me.say_hi()
 
 ```
 ## 📊 Estadísticas GitHub
