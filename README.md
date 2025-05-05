@@ -1,17 +1,7 @@
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
 </div>
-
-<!-- Badges elegantes y sutiles -->
-<p align="center">
-  <a href="mailto:ateca.vega@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ateca.vega@gmail.com-8B5FBF?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/ateca-vega">
-    <img src="https://img.shields.io/badge/LinkedIn-ateca--vega-8B5FBF?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn">
-  </a>
-</p>
 
 
 ## 🌟 Sobre Mí
