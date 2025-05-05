@@ -7,7 +7,7 @@ Bienvenido/a a mi perfil de GitHub. Soy una desarrolladora en curso...
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Bienvenid@+a+mi+perfil;Desarrolladora+Full+Stack;Apasionada+por+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A4169D&center=true&vCenter=true&width=800&lines=Bienvenid@+a+mi+perfil;Desarrolladora+Full+Stack;Apasionada+por+la+tecnología" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tecnologías y Habilidades
