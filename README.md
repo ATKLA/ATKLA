@@ -1,16 +1,3 @@
-<!-- Foto de perfil con marco circular y efecto sutil -->
-<div align="center">
-  <img src="https://github.com/ATKLA.png" alt="ATKLA" width="200" style="border-radius: 50%; border: 5px solid #A4169D; box-shadow: 0 0 20px rgba(164, 22, 157, 0.4); object-fit: cover;"/>
-</div>
-
-<h1 align="center">Laura Ateca</h1>
-<h3 align="center">ATKLA • she/her</h3>
-
-<p align="center">
-  Estudiante de DAW • Apasionada por el diseño y la simplicidad<br>
-  Busco siempre una experiencia de usuario excepcional
-</p>
-
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
