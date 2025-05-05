@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/ateca-vega">
     <img src="https://img.shields.io/badge/LinkedIn-ateca--vega-8B5FBF?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn">
   </a>
-  <span>
-    <img src="https://img.shields.io/badge/Madrid-📍_UTC+02:00-8B5FBF?style=flat-square&labelColor=1A1A1A" alt="Ubicación">
-  </span>
 </p>
 
 
