@@ -1,19 +1,34 @@
-<!-- Banner animado -->
+<!-- Foto de perfil con marco circular y efecto sutil -->
 <div align="center">
-  <img src="https://github.com/ATKLA/ATKLA/blob/main/banner.gif?raw=true" alt="Banner" style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(161, 22, 157, 0.3); border: 1px solid #A4169D;">
+  <img src="https://github.com/ATKLA.png" alt="ATKLA" width="200" style="border-radius: 50%; border: 5px solid #A4169D; box-shadow: 0 0 20px rgba(164, 22, 157, 0.4); object-fit: cover;"/>
 </div>
+
+<h1 align="center">Laura Ateca</h1>
+<h3 align="center">ATKLA • she/her</h3>
+
+<p align="center">
+  Estudiante de DAW • Apasionada por el diseño y la simplicidad<br>
+  Busco siempre una experiencia de usuario excepcional
+</p>
 
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ateca-vega)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateca.vega@gmail.com)
+<!-- Badges elegantes y sutiles -->
+<p align="center">
+  <a href="mailto:ateca.vega@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ateca.vega@gmail.com-8B5FBF?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/ateca-vega">
+    <img src="https://img.shields.io/badge/LinkedIn-ateca--vega-8B5FBF?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn">
+  </a>
+  <span>
+    <img src="https://img.shields.io/badge/Madrid-📍_UTC+02:00-8B5FBF?style=flat-square&labelColor=1A1A1A" alt="Ubicación">
+  </span>
+</p>
 
-</div>
 
 ## 🌟 Sobre Mí
 Desarrolladora Full Stack en formación con pasión por crear soluciones tecnológicas innovadoras. Me encanta aprender nuevas tecnologías y compartir conocimiento.
