@@ -1,4 +1,19 @@
+<!-- 🎨 Stack Tecnológico con Banner -->
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: 0 auto; background: #f8f9fa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); overflow: hidden;">
 
+  <!-- Banner Superior -->
+  <div style="width: 100%; height: 150px; overflow: hidden; display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);">
+    <img src="banner.gif" alt="Tech Banner" style="max-width: 100%; height: auto; object-fit: cover;"/>
+  </div>
+
+  <!-- Contenido del Stack -->
+  <div style="padding: 20px;">
+
+    <!-- Encabezado -->
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #eaecef; padding-bottom: 10px; display: flex; align-items: center; margin-top: 10px;">
+      <span style="margin-right: 10px;">🚀</span> Stack Tecnológico
+    </h2>
+    
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
@@ -9,6 +24,13 @@
 Desarrolladora Full Stack en formación con pasión por crear soluciones tecnológicas innovadoras. Me encanta aprender nuevas tecnologías y compartir conocimiento.
 
 ---
+<!-- 🎨 Stack Tecnológico - Versión Elegante -->
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f8f9fa; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+
+  <!-- Encabezado -->
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #eaecef; padding-bottom: 10px; display: flex; align-items: center;">
+    <span style="margin-right: 10px;">🚀</span> Stack Tecnológico
+  </h2>
 
   <!-- Lenguajes Principales -->
   <div style="margin: 25px 0;">
