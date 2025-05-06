@@ -36,10 +36,26 @@ me = ATKLA()
 me.say_hi()
 
 ```
-## 📈 Estadísticas GitHub
+## 🌟 Mis Estadísticas GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=dracula&random=123hide_border=true&bg_color=0D1117&title_color=A4169D&icon_color=FFA500&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A4169D&text_color=FFFFFF"/>
+<div align="center" style="margin: 2rem 0;">
+  <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
+    
+    <!-- Tarjeta de Estadísticas Principales -->
+    <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 16px rgba(164, 22, 157, 0.2); max-width: 500px;">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFD700&icon_color=FFA500&text_color=FFFFFF&border_color=A4169D&include_all_commits=true&count_private=true&custom_title=Mi%20Progreso" alt="Estadísticas"/>
+    </div>
+    
+    <!-- Tarjeta de Lenguajes -->
+    <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 16px rgba(164, 22, 157, 0.2); max-width: 350px;">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&hide_border=true&bg_color=transparent&title_color=FFD700&text_color=FFFFFF&border_color=A4169D&langs_count=6&custom_title=Lenguajes%20que%20aprendo" alt="Lenguajes"/>
+    </div>
+  </div>
+
+  <!-- Racha de Contribuciones -->
+  <div style="margin-top: 2rem; background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 16px rgba(164, 22, 157, 0.2); max-width: 600px; display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATKLA&hide_border=true&background=transparent&stroke=A4169D&ring=FFA500&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFD700&currStreakLabel=A4169D" alt="Racha de contribuciones"/>
+  </div>
 </div>
----
+
+
