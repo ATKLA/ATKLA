@@ -44,7 +44,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATKLA&theme=dracula&hide_border=true&background=0D1117&stroke=A4169D&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A4169D" alt="ATKLA's streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=dracula&random=123"/>
 </div>
 
 ---
