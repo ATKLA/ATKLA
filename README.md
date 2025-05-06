@@ -40,6 +40,6 @@ me.say_hi()
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=dracula&random123&hide_border=true&bg_color=0D1117&title_color=A4169D&icon_color=FFA500&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A4169D&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=dracula&random123&hide_border=true&bg_color=0D1117&title_color=A4169D&text_color=FFFFFF"/>
 </div>
 
