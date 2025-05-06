@@ -1,4 +1,6 @@
-   
+<p align="center">
+  <img src="https://github.com/ATKLA/ATKLA.github.io/blob/main/banner.png?raw=true" alt="Banner Laura Ateca" width="100%"/>
+</p>   
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Desarrolladora+Full+Stack;Apasionada+por+la+Tecnología" alt="Typing SVG" />
