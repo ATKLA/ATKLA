@@ -54,41 +54,13 @@ me.say_hi()
   <!-- Gráfico 3D de lenguajes -->
   <a href="https://github.com/ATKLA">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A4169D&text_color=f8f8f2"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=f8f8f2"
       style="transition: transform 0.3s; width: 49%"
       onmouseover="this.style.transform='rotateY(10deg)'"
       onmouseout="this.style.transform='rotateY(0)'"
       alt="Lenguajes más usados"
     />
   </a>
-
-  <!-- Streak con efecto neón -->
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=A4169D&fire=FFA500&currStreakLabel=A4169D"
-      style="transition: all 0.3s; width: 49%; filter: drop-shadow(0 0 8px #A4169D)"
-      onmouseover="this.style.filter='drop-shadow(0 0 12px #bd93f9)'"
-      onmouseout="this.style.filter='drop-shadow(0 0 8px #A4169D)'"
-      alt="Racha de contribuciones"
-    />
-  </a>
-
-  <!-- Tarjeta especial con animación CSS CORREGIDA -->
-  <div 
-    style="
-      width: 49%;
-      background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%);
-      border-radius: 10px;
-      padding: 15px;
-      box-shadow: 0 4px 15px rgba(189, 147, 249, 0.3);
-      transition: all 0.4s;
-      border: 1px solid #bd93f9;
-      margin-top: 20px;  <!-- Añadido para separación -->
-    "
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 25px rgba(189, 147, 249, 0.5)'"
-    onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 15px rgba(189, 147, 249, 0.3)'"
-  >
-  </div>
 
 </div>  <!-- Cierre del div principal -->
 
