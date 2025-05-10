@@ -42,8 +42,33 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=dracula&random123&hide_border=true&bg_color=0D1117&title_color=A4169D&icon_color=FFA500&text_color=FFFFFF"/>
 </div>
 
-### 🔥 Último proyecto: Recetapp
+## 🍳 Último Proyecto: Recetapp
 
-[![Recetapp](https://github-readme-stats.vercel.app/api/pin/?username=ATKLA&repo=Recetapp&theme=radical)](https://github.com/ATKLA/Recetapp)
+<div align="center">
+  
+[![Recetapp Banner](https://github.com/ATKLA/Recetapp/blob/main/recetapp-banner.png?raw=true)](https://recetapp.streamlit.app)
 
-▶️ **Pruébala y dime que te parece**: [recetapp.streamlit.app](https://recetapp.streamlit.app) igual podemos ir mejorandola junt@s!
+[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Recetapp)
+[![Live Demo](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
+
+</div>
+
+<div align="center" style="margin: 30px 0;">
+
+| Características Principales | Tecnologías Usadas |
+|-----------------------------|--------------------|
+| 🔍 Búsqueda por ingredientes | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"> |
+| ⏱ Filtrado por tiempo | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25"> |
+| 📚 Recetario completo | <img src="https://img.shields.io/badge/Pillow-8A2BE2?logo=python&logoColor=white" height="25"> |
+| 🖼 Visualización atractiva | <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25"> |
+
+</div>
+
+<div align="center">
+  
+```python
+# ¿Cómo contribuir?
+1. Clona el repositorio: git clone https://github.com/ATKLA/Recetapp.git
+2. Instala dependencias: pip install -r requirements.txt
+3. Ejecuta la app: streamlit run main.py
+4. ¡Envía tus sugerencias o mejoras!
