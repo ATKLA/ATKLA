@@ -55,23 +55,18 @@ me.say_hi()
 
 <div align="center">
 
-```diff
-+-----------------------------------------------------+
-|                  🍳 RECETAPP v1.0                    |
-+-----------------------------------------------------+
-|                                                     |
-|  [X] 1. CLONAR REPO:                                |
-|       git clone https://github.com/ATKLA/Recetapp   |
-|                                                     |
-|  [ ] 2. INSTALAR:                                   |
-|       pip install -r requirements.txt               |
-|                                                     |
-|  [ ] 3. EJECUTAR:                                   |
-|       streamlit run main.py                         |
-|                                                     |
-|  ¡PRESIONA [A] PARA ENVIAR TUS MEJORAS!            |
-|                                                     |
-+-----------------------------------------------------+
+#### 🧑‍💻 **Flujo de Contribución**
+```bash
+# 1. Clona el proyecto
+git clone https://github.com/ATKLA/Recetapp.git && cd Recetapp
+
+# 2. Prepara el entorno
+pip install -r requirements.txt
+
+# 3. Ejecuta la app localmente
+streamlit run main.py
+🔹 ¿Tienes ideas?
+Abrir Issue
  ```
 </div>
 
