@@ -42,7 +42,7 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=dracula&random123&hide_border=true&bg_color=0D1117&title_color=A4169D&icon_color=FFA500&text_color=FFFFFF"/>
 </div>
 
-## 🍳 Último Proyecto: Recetapp
+## 🔥 Último Proyecto: Recetapp
 
 <div align="center">
   
@@ -55,17 +55,23 @@ me.say_hi()
 
 <div align="center">
 
-```terminal
-💻 COMO CONTRIBUIR (Terminal Mode)  
----------------------------------
-$ git clone https://github.com/ATKLA/Recetapp.git  
-$ cd Recetapp  
-$ pip install -r requirements.txt  
-$ streamlit run main.py  
-
-💡 Envía tus mejoras con un PR!  
----------------------------------
-[▲▲ ▼▼ ◀▶ ◀▶ Ⓑ Ⓐ START]  # Easter egg style
-```
+```diff
++-----------------------------------------------------+
+|                  🍳 RECETAPP v1.0                    |
++-----------------------------------------------------+
+|                                                     |
+|  [X] 1. CLONAR REPO:                                |
+|       git clone https://github.com/ATKLA/Recetapp   |
+|                                                     |
+|  [ ] 2. INSTALAR:                                   |
+|       pip install -r requirements.txt               |
+|                                                     |
+|  [ ] 3. EJECUTAR:                                   |
+|       streamlit run main.py                         |
+|                                                     |
+|  ¡PRESIONA [A] PARA ENVIAR TUS MEJORAS!            |
+|                                                     |
++-----------------------------------------------------+
+ ```
 </div>
 
