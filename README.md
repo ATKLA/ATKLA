@@ -54,14 +54,6 @@ me.say_hi()
 </div>
 
 <div align="center">
-
-| 🛠️ **Contribuir** | 📋 **Pasos** |
-|-------------------|-------------|
-| **1. Clonar** | `git clone https://github.com/ATKLA/Recetapp.git` |
-| **2. Instalar** | `pip install -r requirements.txt` |
-| **3. Ejecutar** | `streamlit run main.py` |
-| **4. Mejorar** | ¡Envía un Pull Request! |
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
 </div>
 
