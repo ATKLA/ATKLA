@@ -55,18 +55,13 @@ me.say_hi()
 
 <div align="center">
 
-#### 🧑‍💻 **Flujo de Contribución**
-```bash
-# 1. Clona el proyecto
-git clone https://github.com/ATKLA/Recetapp.git && cd Recetapp
+| 🛠️ **Contribuir** | 📋 **Pasos** |
+|-------------------|-------------|
+| **1. Clonar** | `git clone https://github.com/ATKLA/Recetapp.git` |
+| **2. Instalar** | `pip install -r requirements.txt` |
+| **3. Ejecutar** | `streamlit run main.py` |
+| **4. Mejorar** | ¡Envía un Pull Request! |
 
-# 2. Prepara el entorno
-pip install -r requirements.txt
-
-# 3. Ejecuta la app localmente
-streamlit run main.py
-🔹 ¿Tienes ideas?
-Abrir Issue
- ```
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
 </div>
 
