@@ -59,3 +59,40 @@ me.say_hi()
 
 </div>
 
+## 🔥 Proyecto Destacado
+
+### 📚 Apuntes de Lenguaje de Marcas
+[![Captura de los apuntes](https://raw.githubusercontent.com/ATKLA/Apuntes-Lenguaje-de-marcas/main/screenshot.png)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
+
+Un repositorio completo con mis apuntes sobre:
+- HTML5 semántico
+- CSS moderno
+- Estructuras XML
+- Ejemplos prácticos
+
+[🌐 Ver en GitHub Pages](https://atkla.github.io/Apuntes-Lenguaje-de-marcas/)
+
+---
+
+## 🚀 Último Repositorio
+
+[![Nombre del último repo](https://raw.githubusercontent.com/ATKLA/ultimo-repo/main/screenshot.png)](https://github.com/ATKLA/ultimo-repo)
+Breve descripción del proyecto...
+
+---
+
+## 🛠 Tecnologías que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 Cómo contactarme
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+
+---
+
+⭐ De [@ATKLA](https://github.com/ATKLA)
+
