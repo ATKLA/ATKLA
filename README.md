@@ -47,7 +47,7 @@ me.say_hi()
 <!-- Tarjeta animada con efecto hover -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=A4169D&icon_color=FFA500&text_color=f8f8f2"
+    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A4169D&icon_color=FFA500&text_color=f8f8f2"
     style="transition: transform 0.3s; width: 49%"
     onmouseover="this.style.transform='scale(1.03)'"
     onmouseout="this.style.transform='scale(1)'"
@@ -58,7 +58,7 @@ me.say_hi()
 <!-- Gráfico 3D de lenguajes -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=A4169D&text_color=f8f8f2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A4169D&text_color=f8f8f2"
     style="transition: transform 0.3s; width: 49%"
     onmouseover="this.style.transform='rotateY(10deg)'"
     onmouseout="this.style.transform='rotateY(0)'"
@@ -90,8 +90,6 @@ me.say_hi()
   "
   onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 25px rgba(189, 147, 249, 0.5)'"
   onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 15px rgba(189, 147, 249, 0.3)'"
-
-</div>
 
 </div>
 
