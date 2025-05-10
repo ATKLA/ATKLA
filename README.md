@@ -62,13 +62,12 @@ me.say_hi()
 ### 📚 Apuntes de Lenguaje de Marcas
 [![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas/blob/main/banner.png?raw=true)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
 
-Repositorio completo con mis apuntes sobre tecnologías web:
-- Estructuras XML/HTML
-- CSS moderno
-- Ejemplos prácticos
+<div align="center" style="margin: 20px 0;">
 
 [![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
 [![GitHub Pages](https://img.shields.io/badge/🌐_Ver_Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atkla.github.io/Apuntes-Lenguaje-de-marcas/)
+
+</div>
 
 ## 🛠 Tecnologías que uso
 <div align="center" style="margin: 20px 0;">
@@ -87,6 +86,7 @@ Repositorio completo con mis apuntes sobre tecnologías web:
 ---
 
 ## 📫 Cómo contactarme
+<div align="center" style="margin: 20px 0;">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
 
