@@ -53,7 +53,7 @@ me.say_hi()
 
 </div>  <!-- Cierre del div principal -->
 
-## 🔥 Último Proyecto: Recetapp (Working in progress...🚧)
+## 🔥 Último Proyecto: Recetapp (Work in progress...🚧)
 
 <div align="center">
   
