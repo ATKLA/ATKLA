@@ -59,32 +59,30 @@ me.say_hi()
 
 </div>
 
-## 🔥 Proyecto Destacado
-
 ### 📚 Apuntes de Lenguaje de Marcas
-[![Captura de los apuntes](https://raw.githubusercontent.com/ATKLA/Apuntes-Lenguaje-de-marcas/main/screenshot.png)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
+[![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas/blob/main/banner.png?raw=true)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
 
-Un repositorio completo con mis apuntes sobre:
-- HTML5 semántico
+Repositorio completo con mis apuntes sobre tecnologías web:
+- Estructuras XML/HTML
 - CSS moderno
-- Estructuras XML
 - Ejemplos prácticos
 
-[🌐 Ver en GitHub Pages](https://atkla.github.io/Apuntes-Lenguaje-de-marcas/)
-
----
-
-## 🚀 Último Repositorio
-
-[![Nombre del último repo](https://raw.githubusercontent.com/ATKLA/ultimo-repo/main/screenshot.png)](https://github.com/ATKLA/ultimo-repo)
-Breve descripción del proyecto...
-
----
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
+[![GitHub Pages](https://img.shields.io/badge/🌐_Ver_Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atkla.github.io/Apuntes-Lenguaje-de-marcas/)
 
 ## 🛠 Tecnologías que uso
+<div align="center" style="margin: 20px 0;">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -93,6 +91,4 @@ Breve descripción del proyecto...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
 
 ---
-
-⭐ De [@ATKLA](https://github.com/ATKLA)
 
