@@ -47,7 +47,7 @@ me.say_hi()
 <!-- Tarjeta animada con efecto hover -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2"
+    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=A4169D&icon_color=FFA500&text_color=f8f8f2"
     style="transition: transform 0.3s; width: 49%"
     onmouseover="this.style.transform='scale(1.03)'"
     onmouseout="this.style.transform='scale(1)'"
@@ -58,7 +58,7 @@ me.say_hi()
 <!-- Gráfico 3D de lenguajes -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=ff79c6&text_color=f8f8f2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=A4169D&text_color=f8f8f2"
     style="transition: transform 0.3s; width: 49%"
     onmouseover="this.style.transform='rotateY(10deg)'"
     onmouseout="this.style.transform='rotateY(0)'"
@@ -69,7 +69,7 @@ me.say_hi()
 <!-- Streak con efecto neón -->
 <a href="https://git.io/streak-stats">
   <img 
-    src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9"
+    src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=A4169D&fire=FFA500&currStreakLabel=BD93F9"
     style="transition: all 0.3s; width: 49%; filter: drop-shadow(0 0 8px #ff79c6)"
     onmouseover="this.style.filter='drop-shadow(0 0 12px #bd93f9)'"
     onmouseout="this.style.filter='drop-shadow(0 0 8px #ff79c6)'"
