@@ -44,59 +44,57 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Tarjeta animada con efecto hover -->
+<!-- Estadísticas principales con efecto brillo -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2"
-    style="transition: transform 0.3s; width: 49%"
-    onmouseover="this.style.transform='scale(1.03)'"
-    onmouseout="this.style.transform='scale(1)'"
+    src="https://github-readme-stats.vercel.app/api?username=ATKLA&show_icons=true&hide_border=true&bg_color=30,2d1b5a,4b0082&title_color=ffd700&icon_color=ff8c00&text_color=ff69b4&border_color=ff69b4"
+    style="
+      width: 60%;
+      border-radius: 15px;
+      transition: all 0.4s;
+      box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);
+      padding: 10px;
+    "
+    onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 8px 30px rgba(255, 105, 180, 0.5)'"
+    onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 20px rgba(255, 105, 180, 0.3)'"
     alt="Estadísticas de ATKLA"
   />
 </a>
 
-<!-- Gráfico 3D de lenguajes -->
+<!-- Lenguajes con efecto inclinación -->
 <a href="https://github.com/ATKLA">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,1a1b27&title_color=ff79c6&text_color=f8f8f2"
-    style="transition: transform 0.3s; width: 49%"
-    onmouseover="this.style.transform='rotateY(10deg)'"
-    onmouseout="this.style.transform='rotateY(0)'"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&hide_border=true&bg_color=30,4b0082,2d1b5a&title_color=ffd700&text_color=ff8c00&border_color=ff69b4"
+    style="
+      width: 35%;
+      border-radius: 15px;
+      transition: all 0.4s;
+      box-shadow: 0 4px 20px rgba(255, 215, 0, 0.3);
+      padding: 10px;
+    "
+    onmouseover="this.style.transform='perspective(500px) rotateY(15deg)';this.style.boxShadow='0 8px 30px rgba(255, 215, 0, 0.5)'"
+    onmouseout="this.style.transform='perspective(500px) rotateY(0)';this.style.boxShadow='0 4px 20px rgba(255, 215, 0, 0.3)'"
     alt="Lenguajes más usados"
   />
 </a>
 
-<!-- Streak con efecto neón -->
+<!-- Streak con efecto neón mejorado -->
 <a href="https://git.io/streak-stats">
   <img 
-    src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9"
-    style="transition: all 0.3s; width: 49%; filter: drop-shadow(0 0 8px #ff79c6)"
-    onmouseover="this.style.filter='drop-shadow(0 0 12px #bd93f9)'"
-    onmouseout="this.style.filter='drop-shadow(0 0 8px #ff79c6)'"
+    src="https://streak-stats.demolab.com?user=ATKLA&hide_border=true&background=2D1B5A&ring=FF69B4&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FF69B4"
+    style="
+      width: 100%;
+      border-radius: 15px;
+      transition: all 0.4s;
+      filter: drop-shadow(0 0 10px #ff69b4);
+      margin-top: 20px;
+      padding: 10px;
+    "
+    onmouseover="this.style.filter='drop-shadow(0 0 15px #ff8c00) brightness(1.05)'"
+    onmouseout="this.style.filter='drop-shadow(0 0 10px #ff69b4) brightness(1)'"
     alt="Racha de contribuciones"
   />
 </a>
-
-<!-- Tarjeta especial con animación CSS -->
-<div 
-  style="
-    width: 49%;
-    background: linear-gradient(135deg, #1a1b27 0%, #0d1117 100%);
-    border-radius: 10px;
-    padding: 15px;
-    box-shadow: 0 4px 15px rgba(189, 147, 249, 0.3);
-    transition: all 0.4s;
-    border: 1px solid #bd93f9;
-  "
-  onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 25px rgba(189, 147, 249, 0.5)'"
-  onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 15px rgba(189, 147, 249, 0.3)'"
->
-  <h3 style="color: #ff79c6; margin-top: 0">✨ Logros</h3>
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ATKLA&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15"
-    alt="Trofeos de GitHub"
-  />
-</div>
 
 </div>
 
