@@ -46,17 +46,12 @@ me.say_hi()
 
 <div align="center">
   
-[![Recetapp Banner](https://github.com/ATKLA/Recetapp/blob/main/recetapp-banner.png?raw=true)](https://recetapp.streamlit.app)
+[![Recetapp Banner](https://github.com/ATKLA/Recetapp/blob/main/recetapp-preview.png?raw=true)](https://recetapp.streamlit.app)
 
 [![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Recetapp)
 [![Live Demo](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
 
 </div>
-<div align="center">  
-
-<img src="https://github.com/ATKLA/Recetapp/blob/main/recetapp-screenshot.png?raw=true" alt="Recetapp Screenshot" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">  
-
-</div>  
 
 <div align="center">
   
