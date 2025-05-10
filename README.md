@@ -52,17 +52,11 @@ me.say_hi()
 [![Live Demo](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
 
 </div>
+<div align="center">  
 
-<div align="center" style="margin: 30px 0;">
+<img src="https://github.com/ATKLA/Recetapp/blob/main/recetapp-screenshot.png?raw=true" alt="Recetapp Screenshot" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">  
 
-| Características Principales | Tecnologías Usadas |
-|-----------------------------|--------------------|
-| 🔍 Búsqueda por ingredientes | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"> |
-| ⏱ Filtrado por tiempo | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25"> |
-| 📚 Recetario completo | <img src="https://img.shields.io/badge/Pillow-8A2BE2?logo=python&logoColor=white" height="25"> |
-| 🖼 Visualización atractiva | <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25"> |
-
-</div>
+</div>  
 
 <div align="center">
   
@@ -72,3 +66,5 @@ me.say_hi()
 2. Instala dependencias: pip install -r requirements.txt
 3. Ejecuta la app: streamlit run main.py
 4. ¡Envía tus sugerencias o mejoras!
+```
+</div>
