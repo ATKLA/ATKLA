@@ -54,12 +54,18 @@ me.say_hi()
 </div>
 
 <div align="center">
-  
-```python
-# ¿Cómo contribuir?
-1. Clona el repositorio: git clone https://github.com/ATKLA/Recetapp.git
-2. Instala dependencias: pip install -r requirements.txt
-3. Ejecuta la app: streamlit run main.py
-4. ¡Envía tus sugerencias o mejoras!
+
+```terminal
+💻 COMO CONTRIBUIR (Terminal Mode)  
+---------------------------------
+$ git clone https://github.com/ATKLA/Recetapp.git  
+$ cd Recetapp  
+$ pip install -r requirements.txt  
+$ streamlit run main.py  
+
+💡 Envía tus mejoras con un PR!  
+---------------------------------
+[▲▲ ▼▼ ◀▶ ◀▶ Ⓑ Ⓐ START]  # Easter egg style
 ```
 </div>
+
