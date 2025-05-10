@@ -44,8 +44,6 @@ me.say_hi()
 
 ### 🔥 Último proyecto: Recetapp
 
-<a href="https://github.com/ATKLA/Recetapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ATKLA&repo=Recetapp&show_owner=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" />
-</a>
+[![Recetapp](https://github-readme-stats.vercel.app/api/pin/?username=ATKLA&repo=Recetapp&theme=radical)](https://github.com/ATKLA/Recetapp)
 
-▶️ **En vivo**: [recetapp.streamlit.app](https://recetapp.streamlit.app)
+▶️ **Pruébala y dime que te parece**: [recetapp.streamlit.app](https://recetapp.streamlit.app) igual podemos ir mejorandola junt@s!
