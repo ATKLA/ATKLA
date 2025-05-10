@@ -54,6 +54,8 @@ me.say_hi()
 </div>
 
 <div align="center">
+  
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
+
 </div>
 
