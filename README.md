@@ -65,10 +65,10 @@ me.say_hi()
   <!-- Streak con efecto neón -->
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=A4169D&fire=FFA500&currStreakLabel=BD93F9"
-      style="transition: all 0.3s; width: 49%; filter: drop-shadow(0 0 8px #ff79c6)"
+      src="https://streak-stats.demolab.com?user=ATKLA&theme=radical&hide_border=true&background=0D1117&ring=A4169D&fire=FFA500&currStreakLabel=A4169D"
+      style="transition: all 0.3s; width: 49%; filter: drop-shadow(0 0 8px #A4169D)"
       onmouseover="this.style.filter='drop-shadow(0 0 12px #bd93f9)'"
-      onmouseout="this.style.filter='drop-shadow(0 0 8px #ff79c6)'"
+      onmouseout="this.style.filter='drop-shadow(0 0 8px #A4169D)'"
       alt="Racha de contribuciones"
     />
   </a>
@@ -88,8 +88,6 @@ me.say_hi()
     onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 25px rgba(189, 147, 249, 0.5)'"
     onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 15px rgba(189, 147, 249, 0.3)'"
   >
-    <!-- Contenido opcional aquí -->
-    <p style="color: #f8f8f2; margin: 0;">✨ Puedes añadir texto o iconos aquí</p>
   </div>
 
 </div>  <!-- Cierre del div principal -->
