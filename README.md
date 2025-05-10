@@ -19,7 +19,7 @@ class ATKLA:
         self.design_skills = ["Diseño gráfico", "Retoque fotográfico"]
 
         self.tech_skills = {
-            'Lenguajes': ["JAVA", "JavaScript", "Python"],
+            'Lenguajes': ["JAVA", "Python"],
             'Frontend': ["HTML5", "CSS3"],
             'Bases de datos': ["SQL", "XML"],
         }
@@ -103,5 +103,4 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
 
 </div>
----
 
