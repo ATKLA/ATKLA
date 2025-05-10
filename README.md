@@ -51,17 +51,6 @@ me.say_hi()
     />
   </a>
 
-  <!-- Gráfico 3D de lenguajes -->
-  <a href="https://github.com/ATKLA">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKLA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=f8f8f2"
-      style="transition: transform 0.3s; width: 49%"
-      onmouseover="this.style.transform='rotateY(10deg)'"
-      onmouseout="this.style.transform='rotateY(0)'"
-      alt="Lenguajes más usados"
-    />
-  </a>
-
 </div>  <!-- Cierre del div principal -->
 
 ## 🔥 Último Proyecto: Recetapp
