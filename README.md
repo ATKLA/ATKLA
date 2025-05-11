@@ -71,7 +71,7 @@ me.say_hi()
 </div>
 
 ## 📚 Apuntes de Lenguaje de Marcas
-[![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas/blob/main/banner.png?raw=true)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
+[![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas/blob/main/banner_apuntes.png?raw=true)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
 
 <div align="center" style="margin: 20px 0;">
 
