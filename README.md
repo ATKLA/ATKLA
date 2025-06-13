@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ATKLA/ATKLA.github.io/blob/main/banner3.png?raw=true" alt="Banner Laura Ateca" width="100%"/>
+  <img src="https://github.com/ATKLA/ATKLA.github.io/blob/main/banner.png?raw=true" alt="Banner Laura Ateca" width="100%"/>
 </p>   
 <!-- Título animado -->
 <div align="center">
