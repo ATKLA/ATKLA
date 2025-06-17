@@ -107,7 +107,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://github.com/ATKLA/Retro_calculator/blob/main/assets/calculadora-ios-icon.png?raw=true" alt="App Calculadora Retro" width="120" />
+    <img src="https://github.com/ATKLA/Retro_calculator/blob/main/assets/Calculadora.png?raw=true" alt="App Calculadora Retro" width="120" />
   </a>
 </p>
 
