@@ -92,7 +92,7 @@ me.say_hi()
 
 </div>
 
-## 📚 Apuntes de DAW
+## 📚 Apuntes y ejercicios DAW
 ### Entornos de Desarrollo
 <div align="center" style="margin: 20px 0;">
   
@@ -103,27 +103,14 @@ me.say_hi()
 
 </div>
 
-### Streamlit
-
-<div align="center">
-  
-[![Banner Apuntes](https://github.com/ATKLA/Apuntes_Streamlit/blob/main/banner.png?raw=true)](https://apuntesapp.streamlit.app)
-
-[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Apuntes_Streamlit)
-[![Live Demo](https://img.shields.io/badge/🌐_Abrir_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://apuntesapp.streamlit.app)
-
-</div>
-
-
-
-### Lenguaje de Marcas
+### 🧮 Calculadora Retro
 <div align="center" style="margin: 20px 0;">
-  
-[![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas/blob/main/banner_apuntes.png?raw=true)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
 
+[![Captura de Calculadora](https://github.com/ATKLA/Retro_calculator/blob/main/docs/calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Apuntes-Lenguaje-de-marcas)
-[![GitHub Pages](https://img.shields.io/badge/🌐_Ver_Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atkla.github.io/Apuntes-Lenguaje-de-marcas/)
+[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
+[![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/latest)
+[![Licencia](https://img.shields.io/badge/📜_Licencia-MIT-yellow?style=for-the-badge)](https://github.com/ATKLA/Retro_calculator/blob/main/LICENSE)
 
 </div>
 
