@@ -103,28 +103,23 @@ me.say_hi()
 
 </div>
 
+
 ### 🧮 Calculadora Retro
+<div align="center" style="margin: 20px 0; width: 100%; max-width: 200px; border-radius: 30px; overflow: hidden;">
 
-<p align="center">
-  <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://github.com/ATKLA/Retro_calculator/blob/main/assets/Calculadora.png?raw=true" alt="App Calculadora Retro" width="120" />
-  </a>
-</p>
+[![Interfaz de Calculadora](https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/Calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
+  
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
-<p align="center">
-  <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio">
-  </a>
-  <a href="https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar">
-    <img src="https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white" alt="Descargar JAR">
-  </a>
-</p>
+[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
+[![Descargar v1.0](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar)
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
-<p align="center">
-  <a href="https://github.com/ATKLA/Recetapp/pulls">
-    <img src="https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github" alt="PRs Welcome">
-  </a>
-</p>
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
+
+</div>
+</div
 
 ---
 
