@@ -110,7 +110,12 @@ me.say_hi()
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
+[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
 [![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/latest)
+
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
 
 </div>
