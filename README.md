@@ -75,7 +75,7 @@ me.say_hi()
 
 </div>
 
-## 🔥 Último Proyecto: Recetapp (Work in progress...🚧)
+## 🔥 Practicando con Streamlit: Recetapp (Work in progress...🚧)
 
 <div align="center">
   
@@ -106,8 +106,7 @@ me.say_hi()
 ### 🧮 Calculadora Retro
 <div align="center" style="margin: 20px 0;">
 
-[![Captura de Calculadora](https://github.com/ATKLA/Retro_calculator/blob/main/docs/calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
-
+[![Calculadora Retro](https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/docs/calculadora.png)](https://github.com/ATKLA/Retro_calculator)
 [![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/latest)
 
 </div>
