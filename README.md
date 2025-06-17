@@ -105,9 +105,14 @@ me.say_hi()
 
 ### 🧮 Calculadora Retro
 <div align="center" style="margin: 20px 0;">
-
-[![Calculadora Retro](https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
-
+  <a href="https://github.com/ATKLA/Retro_calculator" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/calculadora.png?raw=true" 
+      alt="Calculadora Retro" 
+      style="width: 250px; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
+    />
+  </a>
+</div>
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
 [![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
@@ -117,7 +122,6 @@ me.say_hi()
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
 
-</div>
 </div>
 
 ---
