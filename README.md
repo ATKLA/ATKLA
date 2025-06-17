@@ -105,7 +105,7 @@ me.say_hi()
 
 
 ### 🧮 Calculadora Retro
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+<div align="center" style="margin: 20px; max-width: 300px;">
 
 [![Interfaz de Calculadora](https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/Calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
   
