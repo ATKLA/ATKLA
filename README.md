@@ -104,10 +104,9 @@ me.say_hi()
 </div>
 
 ### 🧮 Calculadora Retro
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/calculadora-estilo-app.png" width="250" alt="Calculadora Retro" />
-  </a>
+<div align="center" style="width: 250px;" style="border-radius:20px;>
+  [![Captura de Calculadora](https://github.com/ATKLA/Retro_calculator/blob/main/calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator) 
+
   
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
