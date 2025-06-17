@@ -107,8 +107,13 @@ me.say_hi()
 <div align="center" style="margin: 20px 0;">
 
 [![Calculadora Retro](https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/calculadora.png?raw=true)](https://github.com/ATKLA/Retro_calculator)
-[![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/latest)
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+
+[![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/latest)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
+
+</div>
 </div>
 
 ---
