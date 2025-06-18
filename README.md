@@ -115,11 +115,6 @@ me.say_hi()
 [![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
 [![Descargar v1.0](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar)
 </div>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
-
-</div>
 </div
 
 ---
