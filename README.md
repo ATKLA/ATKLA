@@ -110,7 +110,6 @@ me.say_hi()
   <a href="https://github.com/ATKLA/Retro_calculator">
     <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/Calculadora.png?raw=true" alt="Interfaz de Calculadora Retro" width="300"/>
   </a>
-</div>
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
 [![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
