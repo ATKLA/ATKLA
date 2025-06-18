@@ -3,7 +3,7 @@
 </p>   
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Web+Developer;Apasionada+por+la+Tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Full+Stack+Developer;Apasionada+por+la+Tecnología" alt="Typing SVG" />
 </div>
 
 
@@ -13,15 +13,17 @@
 class ATKLA:
     def __init__(self):
         self.name = "Laura Ateca"
-        self.role = "Fotografa, diseñadora y Desarrolladora Full Stack en formación"
-        self.passion = "Crear soluciones tecnológicas innovadoras"
-        self.interests = ["Fotografía", "Viajes", "Gastronomía"]
-        self.design_skills = ["Diseño gráfico", "Retoque fotográfico"]
+        self.role = "Fotógrafa, diseñadora y Desarrolladora Full Stack en formación"
+        self.passion = "Crear soluciones tecnológicas innovadoras con estilo"
+        self.interests = ["Fotografía", "Viajes", "Gastronomía", "Diseño UX/UI"]
+        self.design_skills = ["Diseño gráfico", "Retoque fotográfico", "Prototipado web"]
 
         self.tech_skills = {
-            'Lenguajes': ["JAVA", "Python"],
-            'Frontend': ["HTML5", "CSS3"],
+            'Lenguajes': ["Java", "Python", "JavaScript"],
+            'Frontend': ["HTML5", "CSS3", "Bootstrap", "React"],
+            'Backend': ["Streamlit", "Java (Swing)"],
             'Bases de datos': ["SQL", "XML"],
+            'Herramientas': ["Git", "GitHub", "VS Code", "PyCharm", "Docker", "SQL Developer"]
         }
         
     def say_hi(self):
