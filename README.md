@@ -110,7 +110,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/Calculadora.png?raw=true" alt="Interfaz de Calculadora Retro" width="300"/>
+    <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/image.png?raw=true" alt="Interfaz de Calculadora Retro" width="300"/>
   </a>
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
 
