@@ -61,9 +61,15 @@ me.say_hi()
 
 </div>
 
-## Mythicapp 🏛️ (Work in progress...🚧)
-Pagina sobre Mitología, pon tus conocimientos a prueba.
-![Captura de la web](./assets/Captura.png)
+<div align="center">
+
+## 📜 Mythicapp 🏛️ (Work in progress...🚧)
+
+Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocmientos a prueba.
+
+![Captura de la web de Mythicapp](./assets/Captura.png)
+
+</div>
 
 ## 🔥 Practicando con Streamlit: Recetapp 
 
