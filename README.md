@@ -64,9 +64,9 @@ me.say_hi()
 ## 🏛️ Mythicapp  (Work in progress...🚧)
 <div align="center">
 
-Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocmientos a prueba.
+Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocimientos a prueba.
 
-![Captura de la web de Mythicapp](./assets/captura.png)
+<img src="./assets/captura.png" alt="Captura de la web de Mythicapp" width="400"/>
 
 </div>
 
