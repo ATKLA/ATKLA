@@ -61,7 +61,11 @@ me.say_hi()
 
 </div>
 
-## 🔥 Practicando con Streamlit: Recetapp (Work in progress...🚧)
+## Mythicapp 🏛️ (Work in progress...🚧)
+Pagina sobre Mitología, pon tus conocimientos a prueba.
+![Captura de la web](./assets/Captura.png)
+
+## 🔥 Practicando con Streamlit: Recetapp 
 
 <div align="center">
   
@@ -75,19 +79,6 @@ me.say_hi()
 <div align="center">
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
-
-</div>
-
-## 📚 Apuntes y ejercicios DAW
-### Entornos de Desarrollo
-<div align="center" style="margin: 20px 0;">
-  
-[![Captura de Apuntes](https://github.com/ATKLA/Apuntes-Entornos-Desarrollo/blob/main/banner.png?raw=true)](https://github.com/ATKLA/Apuntes-Entornos-Desarrollo) 
-
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Apuntes-Entornos-Desarrollo)
-[![GitHub Pages](https://img.shields.io/badge/🌐_Ver_Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atkla.github.io/Apuntes-Entornos-Desarrollo/)
-
-</div>
 
 
 ### 🧮 Calculadora Retro
