@@ -61,13 +61,12 @@ me.say_hi()
 
 </div>
 
+## 🏛️ Mythicapp  (Work in progress...🚧)
 <div align="center">
-
-## 📜 Mythicapp 🏛️ (Work in progress...🚧)
 
 Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocmientos a prueba.
 
-![Captura de la web de Mythicapp](./assets/Captura.png)
+![Captura de la web de Mythicapp](./assets/captura.png)
 
 </div>
 
