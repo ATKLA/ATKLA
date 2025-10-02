@@ -66,7 +66,7 @@ me.say_hi()
 
 Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocimientos a prueba.
 
-<img src="./assets/captura.png" alt="Captura de la web de Mythicapp" width="400"/>
+<img src="./assets/captura.png" alt="Captura de la web de Mythicapp" width="500"/>
 
 </div>
 
