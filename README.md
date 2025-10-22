@@ -64,7 +64,7 @@ me.say_hi()
 ## 🏛️ Mythicapp 
 <div align="center">
   
-*Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocimientos a prueba.*
+*Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas.*
 <br>
 **15 preguntas** • **6 civilizaciones** • **Demuestra tu conocimiento**
 
@@ -72,10 +72,7 @@ me.say_hi()
 
 [![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-e74c3c?style=for-the-badge&logo=lightning&logoColor=white)](https://atkla.github.io/Mythicapp/)
 [![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
-
 [![Reportar Bug](https://img.shields.io/badge/BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
-[![Sugerencia](https://img.shields.io/badge/SUGERENCIA-9b59b6?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=enhancement)
-
 
 
 `JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
