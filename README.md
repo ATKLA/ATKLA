@@ -77,11 +77,14 @@ me.say_hi()
 
 `JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
 
-# 📝 Nota del Desarrollador
+### ⚠️ Disclaimer
 
-Mythicapp es un proyecto personal en constante evolución. Actualmente en fase **beta**, con actualizaciones regulares para mejorar la experiencia de usuario, optimizar el rendimiento y corregir posibles bugs.
+**Version:** 1.0-beta  
+**Status:** Active Development
 
-**Última actualización:** Octubre 2025
+Este proyecto está siendo mejorado activamente. Aunque es totalmente funcional, pueden existir bugs ocasionales o áreas de optimización pendientes. 
+
+Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplicación.
 </div>
 
 ---
