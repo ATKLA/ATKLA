@@ -79,9 +79,6 @@ me.say_hi()
 
 ![Status](https://img.shields.io/badge/status-beta-yellow)
 ![Version](https://img.shields.io/badge/version-1.0--beta-blue)
-
-**Version:** 1.0-beta  
-**Status:** Active Development
  
 Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplicación.
 
