@@ -77,21 +77,14 @@ me.say_hi()
 
 `JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
 
-### ⚠️ Disclaimer
+![Status](https://img.shields.io/badge/status-beta-yellow)
+![Version](https://img.shields.io/badge/version-1.0--beta-blue)
 
 **Version:** 1.0-beta  
 **Status:** Active Development
-
-Este proyecto está siendo mejorado activamente. Aunque es totalmente funcional, pueden existir bugs ocasionales o áreas de optimización pendientes. 
-
+ 
 Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplicación.
-![Status](https://img.shields.io/badge/status-beta-yellow)
-![Version](https://img.shields.io/badge/version-1.0--beta-blue)
-![Maintained](https://img.shields.io/badge/maintained-yes-green)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Commit](https://img.shields.io/github/last-commit/ATKLA/Mythicapp)
-![Issues](https://img.shields.io/github/issues/ATKLA/Mythicapp)
+
 </div>
 
 ---
