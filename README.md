@@ -61,15 +61,23 @@ me.say_hi()
 
 </div>
 
-## 🏛️ Mythicapp  (Work in progress...🚧)
+## 🏛️ Mythicapp 
 <div align="center">
 
-Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocimientos a prueba.
+*Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas, y pon tus conocimientos a prueba.*
 
 <img src="./assets/captura.png" alt="Captura de la web de Mythicapp" width="500"/>
 
+[![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-e74c3c?style=for-the-badge&logo=lightning&logoColor=white)](https://atkla.github.io/Mythicapp/)
+[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
+
+**15 preguntas** • **6 civilizaciones** • **Demuestra tu conocimiento**
+
+`JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
+
 </div>
 
+---
 ## 🔥 Practicando con Streamlit: Recetapp 
 
 <div align="center">
