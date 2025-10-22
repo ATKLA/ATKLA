@@ -100,8 +100,9 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
 
+</div>
 
-### 🧮 Calculadora Retro
+## 🧮 Calculadora Retro
 
 <div align="center">
   <a href="https://github.com/ATKLA/Retro_calculator">
