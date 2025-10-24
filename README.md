@@ -117,10 +117,3 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 ---
 
-## 📫 Cómo contactarme
-<div align="center">
-  <a href="https://www.linkedin.com/in/ateca-vega/">
-    <img src="./assets/Linkedin.png" alt="LinkedIn Profile">
-  </a>
-</div>
-
