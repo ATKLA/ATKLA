@@ -118,10 +118,9 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 ---
 
 ## 📫 Cómo contactarme
-<div align="center" style="margin: 20px 0;">
-[![LinkedIn Profile](./assets/Linkedin.png)](https://www.linkedin.com/in/ateca-vega/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/ateca-vega/">
+    <img src="./assets/Linkedin.png" alt="LinkedIn Profile">
+  </a>
 </div>
 
