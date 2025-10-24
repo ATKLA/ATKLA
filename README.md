@@ -119,8 +119,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 ## 📫 Cómo contactarme
 <div align="center" style="margin: 20px 0;">
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ateca-vega" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/ateca-vega?trk=profile-badge">Laura Ateca Vega</a></div>
-              
+[![LinkedIn Profile](./assets/Linkedin.png)](https://www.linkedin.com/in/ateca-vega/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
 
