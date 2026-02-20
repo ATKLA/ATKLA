@@ -9,33 +9,28 @@
 
 ## 🌈 Sobre Mí
 
-```python
-class ATKLA:
-    def __init__(self):
-        self.name = "Laura Ateca"
-        self.role = "Fotógrafa, diseñadora y Desarrolladora Full Stack en formación"
-        self.passion = "Crear soluciones tecnológicas innovadoras con estilo"
-        self.interests = ["Fotografía", "Viajes", "Gastronomía", "Diseño UX/UI"]
-        self.design_skills = ["Diseño gráfico", "Retoque fotográfico", "Prototipado web"]
+```javascript
+/* laura.ateca.js */
 
-        self.tech_skills = {
-            'Lenguajes': ["Java", "Python", "JavaScript", "PHP"],
-            'Frontend': ["HTML5", "CSS3", "Tailwind CSS", "Vue.js"],
-            'Backend': ["Node.js", "PHP", "Streamlit"],
-            'Bases de datos': ["Postgres", "SQL", "XML"],
-            'Herramientas': ["Git", "GitHub", "VS Code", "Figma", "PyCharm", "Docker"]
-        }
-        
-    def say_hi(self):
-        print("¡Hola! Soy Laura, desarrolladora y creativa multidisciplinar.")
-        print("Cuando no estoy programando, me encontrarás:")
-        print("- Capturando momentos con mi cámara 📸")
-        print("- Planificando mi próximo viaje ✈️")
-        print("- Explorando nuevos sabores 🍜")
-        print("\n¡Gracias por visitar mi perfil! 😊")
+const laura = {
+  role:     "Frontend Developer & UX/UI Designer",
+  location: "Madrid, España",
+  building: "Nimbag — TFG en progreso",
 
-me = ATKLA()
-me.say_hi()
+  stack: {
+    frontend: ["Vue.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
+    backend:  ["Node.js", "PHP"],
+    data:     ["PostgreSQL", "MySQL"],
+    design:   ["Figma"]
+  },
+
+  offline: "fotografiando, viajando o buscando el mejor padthai",
+
+  contact: {
+    linkedin: "[LinkedIn](https://www.linkedin.com/in/ateca-vega/)",
+    email:    "[Email](mailto:ateca.vega@gmail.com)"
+  }
+};
 
 ```
 
