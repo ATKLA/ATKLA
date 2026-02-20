@@ -3,7 +3,7 @@
 </p>   
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;" alt="Typing SVG" />
 </div>
 
 
@@ -13,26 +13,22 @@
 /* laura.ateca.js */
 
 const laura = {
-  role:     "Frontend Developer & UX/UI Designer",
+  role:     "Frontend Developer",
   location: "Madrid, España",
   building: "Nimbag — TFG en progreso",
 
   stack: {
     frontend: ["Vue.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
     backend:  ["Node.js", "PHP"],
-    data:     ["PostgreSQL", "MySQL"],
+    data:     ["PostgreSQL"],
     design:   ["Figma"]
   },
 
   offline: "fotografiando, viajando o buscando el mejor padthai",
-
-  contact: {
-    linkedin: "[LinkedIn](https://www.linkedin.com/in/ateca-vega/)",
-    email:    "[Email](mailto:ateca.vega@gmail.com)"
-  }
 };
-
 ```
+
+[LinkedIn](https://www.linkedin.com/in/ateca-vega/) · [Email](mailto:ateca.vega@gmail.com)
 
 ## 🛠 Tecnologías que uso
 <div align="center" style="margin: 20px 0;">
