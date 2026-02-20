@@ -19,11 +19,11 @@ class ATKLA:
         self.design_skills = ["Diseño gráfico", "Retoque fotográfico", "Prototipado web"]
 
         self.tech_skills = {
-            'Lenguajes': ["Java", "Python", "JavaScript"],
-            'Frontend': ["HTML5", "CSS3", "Bootstrap", "React"],
-            'Backend': ["Streamlit", "Java (Swing)"],
-            'Bases de datos': ["SQL", "XML"],
-            'Herramientas': ["Git", "GitHub", "VS Code", "PyCharm", "Docker", "SQL Developer"]
+            'Lenguajes': ["Java", "Python", "JavaScript", "PHP"],
+            'Frontend': ["HTML5", "CSS3", "Tailwind CSS", "Vue.js"],
+            'Backend': ["Node.js", "PHP", "Streamlit"],
+            'Bases de datos': ["Postgres", "SQL", "XML"],
+            'Herramientas': ["Git", "GitHub", "VS Code", "Figma", "PyCharm", "Docker"]
         }
         
     def say_hi(self):
@@ -44,12 +44,17 @@ me.say_hi()
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,6 +63,20 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## ☁️ Nimbag (TFG) — En construcción 🚧
+<div align="center">
+
+*Tu asistente inteligente para preparar el equipaje perfecto.*
+
+<img src="./assets/Landing_Nimbag.png" alt="Captura de Nimbag" width="600"/>
+
+![Status](https://img.shields.io/badge/status-en%20construcción-orange)
+![TFG](https://img.shields.io/badge/proyecto-TFG-blueviolet)
+
+`Vue.js` `Node.js` `PostgreSQL` `API REST`
 
 </div>
 
