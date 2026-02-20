@@ -28,7 +28,14 @@ const laura = {
 };
 ```
 
-[LinkedIn](https://www.linkedin.com/in/ateca-vega/) · [Email](mailto:ateca.vega@gmail.com)
+<div align="center">
+
+**¿Hablamos?**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateca-vega/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateca.vega@gmail.com)
+
+</div>
 
 ## 🛠 Tecnologías que uso
 <div align="center" style="margin: 20px 0;">
