@@ -71,8 +71,8 @@ const laura = {
 
 <img src="./assets/Landing_Nimbag.png" alt="Captura de Nimbag" width="600"/>
 
-[![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-ver%20app-0EA5E9?style=for-the-badge)](https://www.nimbag.com)
-![Status](https://img.shields.io/badge/status-beta-38BDF8)
+[![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
+
 ![TFG](https://img.shields.io/badge/proyecto-TFG%20DAW%202026-blueviolet)
 ![Version](https://img.shields.io/badge/version-1.0.0--beta-brightgreen)
 
