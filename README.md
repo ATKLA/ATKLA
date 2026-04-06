@@ -3,7 +3,7 @@
 </p>   
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;UX+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;UX+Designer;Del+wireframe+al+deploy" alt="Typing SVG" />
 </div>
 
 
@@ -69,7 +69,7 @@ const atkla = {
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
 
-<img src="./assets/Landing_Nimbag.png" alt="Captura de Nimbag" width="600"/>
+<img src="./assets/TripDetail.png" alt="Captura de Nimbag" width="600"/>
 
 [![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
