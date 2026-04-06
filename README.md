@@ -58,11 +58,12 @@ const atkla = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-## ☁️ Nimbag (TFG) — Beta publicada 🚀
+## ☁️ Nimbag — en producción 🚀
 <div align="center">
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
@@ -74,7 +75,7 @@ const atkla = {
 ![TFG](https://img.shields.io/badge/proyecto-TFG%20DAW%202026-blueviolet)
 ![Version](https://img.shields.io/badge/version-1.0.0--beta-brightgreen)
 
-`Vue.js 3` `Node.js` `PostgreSQL` `API REST` `Vercel` `Railway`
+`Vue.js 3` `Pinia` `Node.js` `PostgreSQL` `API REST` `Vercel` `Railway`
 
 </div>
 
@@ -102,35 +103,30 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 </div>
 
 ---
-## 🔥 Practicando con Streamlit: Recetapp 
 
+## 🧪 Experimentos & prácticas
+ 
 <div align="center">
-  
-[![Recetapp Banner](https://github.com/ATKLA/Recetapp/blob/main/recetapp-preview.png?raw=true)](https://recetapp.streamlit.app)
-
-[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Recetapp)
-[![Live Demo](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
-
+ 
+### 🔥 Recetapp
+ 
+*Busca recetas según los ingredientes que tienes en casa.*
+ 
+[![Ver Repositorio](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Recetapp)
+[![Probar App](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
+ 
+`Python` `Streamlit`
+ 
+### 🧮 Calculadora Retro
+ 
+*Calculadora con estética retro desarrollada en Java.*
+ 
+[![Ver Repositorio](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
+[![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar)
+ 
+`Java`
+ 
 </div>
-
-<div align="center">
-  
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
-
-</div>
-
-## 🧮 Calculadora Retro
-
-<div align="center">
-  <a href="https://github.com/ATKLA/Retro_calculator">
-    <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/image.png?raw=true" alt="Interfaz de Calculadora Retro" width="300"/>
-  </a>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-
-[![GitHub Repo](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
-[![Descargar v1.0](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar)
-</div>
-</div
 
 ---
 
