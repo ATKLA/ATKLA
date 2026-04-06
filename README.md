@@ -11,17 +11,17 @@
 
 ```javascript
 /* laura.ateca.js */
-
-const laura = {
-  role:     "Frontend Developer", "UX Enthusiast",
+const atkla = {
+  role:     "Frontend Developer | UX Designer",
   location: "Madrid, España",
-  building: "Nimbag — TFG en progreso",
+  building: "Nimbag — asistente de equipaje inteligente en producción",
 
   stack: {
-    frontend: ["Vue.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-    backend:  ["Node.js", "PHP"],
-    data:     ["PostgreSQL"],
-    design:   ["Figma"]
+    frontend: ["Vue.js", "Nuxt 3", "JavaScript", "HTML5", "CSS3", "Tailwind", "Vite"],
+    backend:  ["Node.js", "PHP", "Express", "Laravel", "REST APIs"],
+    data:     ["PostgreSQL", "MySQL"],
+    design:   ["Figma", "UX Research", "Usability Testing"],
+    tools:    ["Git", "Vercel", "Railway"]
   },
 
   offline: "fotografiando, viajando o buscando el mejor padthai",
