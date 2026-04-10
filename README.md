@@ -67,11 +67,11 @@ const atkla = {
 
 ## 📐 Estándares y Metodología
 
-Para mantener un código limpio y un historial de versiones profesional, aplico convenciones estrictas en todos mis proyectos. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
+Para mantener un código limpio y un historial de versiones profesional. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
 
 <div align="center">
-  <a href="https://github.com/ATKLA/ATKLA.github.io/blob/main/GIT.pdf">
-    <img src="https://github.com/ATKLA/ATKLA/blob/main/assets/GIT.png?raw=true" alt="ATKLA Git Master Guide" width="90%"/>
+  <a href="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/git.png">
+    <img src="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/git.png" alt="ATKLA Git Master Guide" width="90%"/>
   </a>
   <p><i>"Nombres claros, historial limpio, equipos felices"</i></p>
 </div>
