@@ -61,7 +61,6 @@ const atkla = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
-![Git Flow](https://img.shields.io/badge/Git_Flow-D33847?style=for-the-badge&logo=git-lfs&logoColor=white)
 
 
 </div>
@@ -72,7 +71,7 @@ Para mantener un código limpio y un historial de versiones profesional, aplico 
 
 <div align="center">
   <a href="https://github.com/ATKLA/ATKLA.github.io/blob/main/GIT.pdf">
-    <img src="https://github.com/ATKLA/ATKLA.github.io/blob/main/git_rules.png?raw=true" alt="ATKLA Git Master Guide" width="90%"/>
+    <img src="https://github.com/ATKLA/ATKLA/blob/main/assets/GIT.png?raw=true" alt="ATKLA Git Master Guide" width="90%"/>
   </a>
   <p><i>"Nombres claros, historial limpio, equipos felices"</i></p>
 </div>
