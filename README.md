@@ -70,8 +70,8 @@ const atkla = {
 Para mantener un código limpio y un historial de versiones profesional. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/git.png">
-    <img src="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/git.png" alt="ATKLA Git Master Guide" width="90%"/>
+  <a href="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png">
+    <img src="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png" alt="ATKLA Git Master Guide" width="90%"/>
   </a>
   <p><i>"Nombres claros, historial limpio, equipos felices"</i></p>
 </div>
