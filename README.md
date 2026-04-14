@@ -125,8 +125,8 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 <img src="./assets/Repaso_examenes.png" alt="Captura de la plataforma de repaso de exámenes" width="700"/>
 
-[![Estudiar Ahora](https://img.shields.io/badge/ESTUDIAR_AHORA-f39c12?style=for-the-badge&logo=book&logoColor=white)](https://atkla.github.io/repaso_examenes/)
-[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/repaso_examenes)
+[![Estudiar Ahora](https://img.shields.io/badge/ESTUDIAR_AHORA-f39c12?style=for-the-badge&logo=book&logoColor=white)](https://atkla.github.io/Repaso_examenes/)
+[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Repaso_examenes)
 
 `JavaScript` `HTML5` `CSS3` `Exam Prep` `Education`
 ![Status](https://img.shields.io/badge/status-activo-brightgreen)
