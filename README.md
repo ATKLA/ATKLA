@@ -137,34 +137,5 @@ Herramienta de estudio con seguimiento de progreso y análisis de resultados por
 </div>
 
 ---
-
-<h2>🧪 Experimentos & práctica</h2>
-
-<div align="center">
-
-### 🔥 Practicando con Streamlit: Recetapp
-
-[![Recetapp Banner](https://github.com/ATKLA/Recetapp/blob/main/recetapp-preview.png?raw=true)](https://recetapp.streamlit.app)
-
-[![Ver Repositorio](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Recetapp)
-[![Probar App](https://img.shields.io/badge/🚀_Probar_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://recetapp.streamlit.app)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%23FF6B6B?style=flat&logo=github)](https://github.com/ATKLA/Recetapp/pulls)
-
-`Python` `Streamlit`
-
-### 🧮 Calculadora Retro
-
-<a href="https://github.com/ATKLA/Retro_calculator">
-  <img src="https://raw.githubusercontent.com/ATKLA/Retro_calculator/main/image.png?raw=true" alt="Interfaz de Calculadora Retro" width="300"/>
-</a>
-
-[![Ver Repositorio](https://img.shields.io/badge/🔎_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKLA/Retro_calculator)
-[![Descargar JAR](https://img.shields.io/badge/⬇️_Descargar_JAR-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ATKLA/Retro_calculator/releases/download/v1.0/Calculadora.jar)
-
-`Java`
-
-</div>
-
 ---
 
