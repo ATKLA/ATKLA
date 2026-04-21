@@ -37,6 +37,7 @@ const atkla = {
 
 </div>
 
+
 ## 🛠 Tecnologías que uso
 <div align="center">
 
@@ -82,6 +83,7 @@ const atkla = {
 
 </div>
 
+
 ## 🏛️ Mythicapp 
 <div align="center">
   
@@ -105,6 +107,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 </div>
 
+
 ## 📚 Repasa. Aprueba. Repite.
 <div align="center">
   
@@ -123,6 +126,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 **Módulos cubiertos:** DWES (0613) • Despliegue (0614) • Ciberseguridad
 
 </div>
+
 
 ## 📐 Estándares y Metodología
 
