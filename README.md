@@ -125,26 +125,13 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 <img src="./assets/Repaso_examenes.png" alt="Captura de la plataforma de repaso de exámenes" width="700"/>
 
-[![Solicitar acceso](https://img.shields.io/badge/SOLICITAR_ACCESO-f39c12?style=for-the-badge&logo=formstack&logoColor=white)](https://tally.so/r/TU_FORM_ID)
-[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Repaso_examenes)
+[![Solicitar acceso](https://img.shields.io/badge/SOLICITAR_ACCESO-f39c12?style=for-the-badge&logo=formstack&logoColor=white)](https://tally.so/r/J9kj9X)
 
 `JavaScript` `HTML5` `CSS3` `Exam Prep` `Education`
 
 ![Status](https://img.shields.io/badge/status-privado-orange)
 
 **Módulos cubiertos:** DWES (0613) • Despliegue (0614) • Ciberseguridad
-
----
-
-## 🔐 Acceso al proyecto
-
-Este proyecto es privado.
-
-Si quieres probar la aplicación, puedes solicitar acceso rellenando este formulario:
-
-👉 [https://tally.so/r/TU_FORM_ID](https://tally.so/r/J9kj9X)
-
-Recibiré tu solicitud y, si procede, te enviaré el enlace de acceso.
 
 </div>
 
