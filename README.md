@@ -45,6 +45,8 @@ const atkla = {
 
 <br>
 
+<div align="center">
+  
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"/> Skills & Tools
 </h2>
@@ -54,7 +56,11 @@ const atkla = {
   <img src="https://railway.app/brand/logo-light.svg" width="45" />
 </p>
 
+</div>
+
 <br>
+
+---
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="30" style="margin-right: 10px;"/> Nimbag — en producción
