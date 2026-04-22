@@ -46,19 +46,21 @@ const atkla = {
 <br>
 
 <div align="center">
-  
+
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"/> Skills & Tools
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"> Skills & Tools
 </h2>
 
 <p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,git,github,vscode,docker,vercel,figma" />
-    <img src="https://railway.app/brand/logo-light.svg" width="45" style="vertical-align: middle; margin-left: 8px;" />
-  </span>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,git,github,vscode,docker,vercel,figma&perline=22" />
+</p>
+
+<p align="center">
+  <img src="https://railway.app/brand/logo-light.svg" width="45" style="margin-top: -10px;">
 </p>
 
 </div>
+
 
 
 <br>
