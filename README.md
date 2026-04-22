@@ -1,13 +1,15 @@
 <p align="center">
   <img src="https://github.com/ATKLA/ATKLA.github.io/blob/main/banner.png?raw=true" alt="Banner Laura Ateca" width="100%"/>
 </p>   
+
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;UX+Designer;Del+wireframe+al+deploy" alt="Typing SVG" />
 </div>
 
-
-## 🌈 Sobre Mí
+<h2 align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vtczg3Z3lxdHV3ZXFiMjYwZmE3OTNjd2htd2ttYW91NmEyY3g5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="32" style="vertical-align: middle;"/> Sobre Mí
+</h2>
 
 ```javascript
 /* laura.ateca.js */
@@ -37,37 +39,40 @@ const atkla = {
 
 </div>
 
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"/> Skills & Tools
+</h2>
 
-## 🛠 Tecnologías que uso
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
+  <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="50" height="50"/>
+</p>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt 3](https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+<h2 align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="32" style="vertical-align: middle;"/> Nimbag — en producción
+</h2>
 
-
-</div>
-
-
-## ☁️ Nimbag — en producción 🚀
 <div align="center">
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
@@ -83,8 +88,10 @@ const atkla = {
 
 </div>
 
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="32" style="vertical-align: middle;"/> Mythicapp
+</h2>
 
-## 🏛️ Mythicapp 
 <div align="center">
   
 *Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas.*
@@ -97,7 +104,6 @@ const atkla = {
 [![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
 [![Reportar Bug](https://img.shields.io/badge/BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
 
-
 `JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
 
 ![Status](https://img.shields.io/badge/status-beta-yellow)
@@ -107,8 +113,10 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 </div>
 
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b2Yybm5ramp0dGVmMGF5eHQ1NWs4cXR6YXZjamc1enhvYWlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="32" style="vertical-align: middle;"/> Repasa. Aprueba. Repite.
+</h2>
 
-## 📚 Repasa. Aprueba. Repite.
 <div align="center">
   
 *Tests por unidad formativa, preguntas mezcladas y análisis de resultados.*
@@ -127,8 +135,9 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 </div>
 
-
-## 📐 Estándares y Metodología
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN3ZTE0aHZ2amdwbWtmNzFsNTV5dXBuOW9rbWkyN3V1ZzNidWI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="32" style="vertical-align: middle;"/> Estándares y Metodología
+</h2>
 
 Para mantener un código limpio y un historial de versiones profesional. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
 
@@ -140,5 +149,8 @@ Para mantener un código limpio y un historial de versiones profesional. Puedes 
 </div>
 
 ---
----
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ATKLA&color=f59e0b&style=flat-square" alt="Profile Views" />
+</p>
 
