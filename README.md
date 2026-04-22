@@ -52,7 +52,7 @@ const atkla = {
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,java,git,github,vscode,docker,vercel,figma&perline=24" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,java,git,github,vscode,docker,vercel,figma&perline=32" />
 </p>
 
 <p align="center">
