@@ -52,11 +52,11 @@ const atkla = {
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,git,github,vscode,docker,vercel,figma&perline=22" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,java,git,github,vscode,docker,vercel,figma&perline=24" />
 </p>
 
 <p align="center">
-  <img src="https://railway.app/brand/logo-light.svg" width="45" style="margin-top: -10px;">
+  <img src="https://railway.app/brand/logo-light.svg" width="45" style="margin-top: -5px;" />
 </p>
 
 </div>
