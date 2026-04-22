@@ -46,21 +46,13 @@ const atkla = {
 <br>
 
 <div align="center">
-
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"> Skills & Tools
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"> Skills & Tools
 </h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,java,git,github,vscode,docker,vercel,figma&perline=32" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,git,github,vscode,docker,vercel,figma&perline=11" />
 </p>
-
-<p align="center">
-  <img src="https://railway.app/brand/logo-light.svg" width="45" style="margin-top: -5px;" />
-</p>
-
 </div>
-
 
 
 <br>
