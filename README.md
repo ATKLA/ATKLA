@@ -7,9 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;UX+Designer;Del+wireframe+al+deploy" alt="Typing SVG" />
 </div>
 
+
 <h2 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vtczg3Z3lxdHV3ZXFiMjYwZmE3OTNjd2htd2ttYW91NmEyY3g5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="32" style="vertical-align: middle;"/> Sobre Mí
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vtczg3Z3lxdHV3ZXFiMjYwZmE3OTNjd2htd2ttYW91NmEyY3g5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="30" style="vertical-align: text-bottom;"/> Sobre Mí
 </h2>
+
 
 ```javascript
 /* laura.ateca.js */
@@ -30,6 +32,8 @@ const atkla = {
 };
 ```
 
+<br>
+
 <div align="center">
 
 **¿Hablamos?**
@@ -39,9 +43,12 @@ const atkla = {
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"/> Skills & Tools
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: text-bottom;"/> Skills & Tools
 </h2>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -69,9 +76,12 @@ const atkla = {
   <img src="https://railway.app/brand/logo-light.svg" alt="Railway" width="50" height="50"/>
 </p>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="32" style="vertical-align: middle;"/> Nimbag — en producción
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="30" style="vertical-align: text-bottom;"/> Nimbag — en producción
 </h2>
+
 
 <div align="center">
 
@@ -88,9 +98,12 @@ const atkla = {
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="32" style="vertical-align: middle;"/> Mythicapp
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="30" style="vertical-align: text-bottom;"/> Mythicapp
 </h2>
+
 
 <div align="center">
   
@@ -113,9 +126,12 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b2Yybm5ramp0dGVmMGF5eHQ1NWs4cXR6YXZjamc1enhvYWlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="32" style="vertical-align: middle;"/> Repasa. Aprueba. Repite.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b2Yybm5ramp0dGVmMGF5eHQ1NWs4cXR6YXZjamc1enhvYWlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30" style="vertical-align: text-bottom;"/> Repasa. Aprueba. Repite.
 </h2>
+
 
 <div align="center">
   
@@ -135,9 +151,12 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN3ZTE0aHZ2amdwbWtmNzFsNTV5dXBuOW9rbWkyN3V1ZzNidWI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="32" style="vertical-align: middle;"/> Estándares y Metodología
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN3ZTE0aHZ2amdwbWtmNzFsNTV5dXBuOW9rbWkyN3V1ZzNidWI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30" style="vertical-align: text-bottom;"/> Estándares y Metodología
 </h2>
+
 
 Para mantener un código limpio y un historial de versiones profesional. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
 
@@ -153,4 +172,3 @@ Para mantener un código limpio y un historial de versiones profesional. Puedes 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ATKLA&color=f59e0b&style=flat-square" alt="Profile Views" />
 </p>
-
