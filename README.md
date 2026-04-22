@@ -52,15 +52,17 @@ const atkla = {
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,git,github,vscode,docker,vercel,figma" />
-  <img src="https://railway.app/brand/logo-light.svg" width="45" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,git,github,vscode,docker,vercel,figma" />
+    <img src="https://railway.app/brand/logo-light.svg" width="45" style="vertical-align: middle; margin-left: 8px;" />
+  </span>
 </p>
 
 </div>
 
+
 <br>
 
----
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="30" style="margin-right: 10px;"/> Nimbag — en producción
