@@ -51,7 +51,28 @@ const atkla = {
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"> Skills & Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,vite,nodejs,express,php,laravel,postgres,mysql,mongodb,python,git,github,vscode,docker,vercel,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40"/>
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40"/>
+<img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" width="40"/>
+<img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" title="Nuxt" width="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40"/>
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="40"/>
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40"/>
+<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40"/>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="40"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="40"/>
 </p>
 </div>
 
