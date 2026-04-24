@@ -134,20 +134,21 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b2Yybm5ramp0dGVmMGF5eHQ1NWs4cXR6YXZjamc1enhvYWlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30" style="margin-right: 10px;"/> Repasa. Aprueba. Repite.
 </h2>
 
-
 <div align="center">
   
-*Tests por unidad formativa, preguntas mezcladas y análisis de resultados.*
+*Tests por unidad formativa, preguntas aleatorias y análisis de resultados.*
 <br>
 **360 preguntas** • **3 módulos DAW** • **Prepárate para tus exámenes**
 
 <img src="./assets/Repaso_examenes.png" alt="Captura de la plataforma de repaso de exámenes" width="700"/>
 
-[![Solicitar acceso](https://img.shields.io/badge/SOLICITAR_ACCESO-f39c12?style=for-the-badge&logo=formstack&logoColor=white)](https://tally.so/r/J9kj9X)
+<br>
+
+[![Probar aplicación](https://img.shields.io/badge/PROBAR_APP-2ecc71?style=for-the-badge&logo=vercel&logoColor=white)](https://repaso-examenes.vercel.app/)
+
+<br>
 
 `JavaScript` `HTML5` `CSS3` `Exam Prep` `Education`
-
-![Status](https://img.shields.io/badge/status-privado-orange)
 
 **Módulos cubiertos:** DWES (0613) • Despliegue (0614) • Ciberseguridad
 
