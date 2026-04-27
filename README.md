@@ -88,7 +88,7 @@ const atkla = {
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
 
-<img src="./assets/Nimbag2.png" alt="Captura de Nimbag" width="500"/>
+<img src="./assets/Nimbag.png" alt="Captura de Nimbag" width="500"/>
 
 [![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
@@ -141,7 +141,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 <br>
 **360 preguntas** • **3 módulos DAW** • **Prepárate para tus exámenes**
 
-<img src="./assets/Repaso_examenes.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
+<img src="./assets/Repasa.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
 
 <br>
 
