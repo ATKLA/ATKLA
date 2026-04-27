@@ -84,7 +84,6 @@ const atkla = {
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="30" style="margin-right: 10px;"/> Nimbag — en producción
 </h2>
 
-
 <div align="center">
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
@@ -94,13 +93,15 @@ const atkla = {
 [![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
 ![TFG](https://img.shields.io/badge/proyecto-TFG%20DAW%202026-blueviolet)
-![Version](https://img.shields.io/badge/version-1.0.0--beta-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Status](https://img.shields.io/badge/status-production-success)
 
 `Vue.js 3` `Pinia` `Node.js` `PostgreSQL` `API REST` `Vercel` `Railway`
 
 </div>
 
 <br>
+
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="30" style="margin-right: 10px;"/> Mythicapp
