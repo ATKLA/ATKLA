@@ -141,7 +141,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 <br>
 **360 preguntas** • **3 módulos DAW** • **Prepárate para tus exámenes**
 
-<img src="./assets/Repasa.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
+<img src="./assets/Reapasa.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
 
 <br>
 
