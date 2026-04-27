@@ -114,7 +114,7 @@ const atkla = {
 <br>
 **15 preguntas** • **6 civilizaciones** • **Demuestra tu conocimiento**
 
-<img src="./assets/captura.png" alt="Captura de la web de Mythicapp" width="500"/>
+<img src="./assets/Mythicapp.png" alt="Captura de la web de Mythicapp" width="500"/>
 
 [![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-e74c3c?style=for-the-badge&logo=lightning&logoColor=white)](https://atkla.github.io/Mythicapp/)
 [![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
