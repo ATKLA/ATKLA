@@ -89,7 +89,7 @@ const atkla = {
 
 *Tu asistente inteligente para preparar el equipaje perfecto.*
 
-<img src="./assets/Nimbag.png" alt="Captura de Nimbag" width="500"/>
+<img src="./assets/nimbag.png" alt="Captura de Nimbag" width="500"/>
 
 [![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
@@ -114,7 +114,7 @@ const atkla = {
  
 **80 preguntas** • **4 civilizaciones** • **27 mitos y leyendas**
  
-<img src="./assets/Mythicapp.png" alt="Captura de la web de MythicApp" width="500"/>
+<img src="./assets/mythicapp.png" alt="Captura de la web de MythicApp" width="500"/>
 
 [![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-FFD84D?style=for-the-badge&logoColor=black)](https://atkla.github.io/Mythicapp/)
 [![Ver Codigo](https://img.shields.io/badge/VER_CODIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
@@ -144,7 +144,7 @@ Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplica
 <br>
 **360 preguntas** • **3 módulos DAW** • **Prepárate para tus exámenes**
 
-<img src="./assets/Reapasa.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
+<img src="./assets/repasa.png" alt="Captura de la plataforma de repaso de exámenes" width="500"/>
 
 <br>
 
