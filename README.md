@@ -57,6 +57,7 @@ const atkla = {
 <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40"/>
 <img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" width="40"/>
 <img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" title="Nuxt" width="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40"/>
 <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40"/>
@@ -104,29 +105,31 @@ const atkla = {
 
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="30" style="margin-right: 10px;"/> Mythicapp
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="30" style="margin-right: 10px;"/> MythicApp
 </h2>
-
 
 <div align="center">
   
-*Descubre las civilizaciones más fascinantes a través de sus mitos y leyendas.*
-<br>
-**15 preguntas** • **6 civilizaciones** • **Demuestra tu conocimiento**
+*Todo empezó con un mito. ¿Eres capaz de recordarlos?*
+ 
+**80 preguntas** • **4 civilizaciones** • **27 mitos y leyendas**
+ 
+<img src="./assets/Mythicapp.png" alt="Captura de la web de MythicApp" width="500"/>
 
-<img src="./assets/Mythicapp.png" alt="Captura de la web de Mythicapp" width="500"/>
-
-[![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-e74c3c?style=for-the-badge&logo=lightning&logoColor=white)](https://atkla.github.io/Mythicapp/)
-[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
-[![Reportar Bug](https://img.shields.io/badge/BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
-
-`JavaScript` `HTML5` `CSS3` `Quiz App` `Mitología`
-
-![Status](https://img.shields.io/badge/status-beta-yellow)
-![Version](https://img.shields.io/badge/version-1.0--beta-blue)
+[![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-FFD84D?style=for-the-badge&logoColor=black)](https://atkla.github.io/Mythicapp/)
+[![Ver Codigo](https://img.shields.io/badge/VER_CODIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
+[![Reportar Bug](https://img.shields.io/badge/REPORTAR_BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
+ 
+`React 19` `Vite` `Tailwind CSS v4` `JavaScript`
+ 
+![Estado](https://img.shields.io/badge/estado-activo-success)
+![Version](https://img.shields.io/badge/version-2.0-success)
+ 
+Biblioteca interactiva de mitología egipcia, griega, romana y vikinga.
+Quiz de 80 preguntas, mitos con fuentes originales y fichas de personajes legendarios.
  
 Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplicación.
-
+ 
 </div>
 
 <br>
