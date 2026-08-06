@@ -146,7 +146,7 @@ Everything you need to remember, plan and share your journeys. An interactive tr
 
 **80 Questions** • **4 Civilizations** • **27 Myths & Legends**
  
-<img src="./assets/mythicapp.png" alt="Captura de la web de MythicApp" width="700"/>
+<img src="./assets/Mythicapp.png" alt="Captura de la web de MythicApp" width="700"/>
 
 [![Play Now](https://img.shields.io/badge/PLAY_NOW-FFD84D?style=for-the-badge&logoColor=black)](https://atkla.github.io/Mythicapp/)
 [![View Code](https://img.shields.io/badge/VIEW_CODE-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
