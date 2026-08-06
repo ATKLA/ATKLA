@@ -4,12 +4,12 @@
 
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=¡Hola!+👋+Soy+ATKLA;Frontend+Developer;UX+Designer;Del+wireframe+al+deploy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Hi!+👋+I'm+ATKLA;Frontend+Developer;UX+Designer;From+wireframe+to+deployment" alt="Typing SVG" />
 </div>
 
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vtczg3Z3lxdHV3ZXFiMjYwZmE3OTNjd2htd2ttYW91NmEyY3g5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="30" style="margin-right: 10px;"/> Sobre Mí
+  About me
 </h2>
 
 
@@ -17,18 +17,26 @@
 /* laura.ateca.js */
 const atkla = {
   role:     "Frontend Developer | UX Designer",
-  location: "Madrid, España",
-  building: "Nimbag — asistente de equipaje inteligente en producción",
+  location: "Madrid, Spain",
+  currentlyBuilding: [
+    "One More Mapp — Travel planning & interactive map platform",
+    "Nimbag — AI-powered travel packing assistant"
+  ],
 
   stack: {
-    frontend: ["Vue.js", "Nuxt 3", "JavaScript", "HTML5", "CSS3", "Tailwind", "Vite"],
-    backend:  ["Node.js", "PHP", "Express", "Laravel", "REST APIs"],
-    data:     ["PostgreSQL", "MySQL"],
-    design:   ["Figma", "UX Research", "Usability Testing"],
+    frontend: ["Vue.js", "Nuxt 3", "React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Vite"],
+    backend:  ["Node.js", "Express", "PHP", "Laravel", "REST APIs"],
+    data:     ["PostgreSQL", "MySQL", "MongoDB"],
+    design:   ["Figma", "UX/UI", "Accessibility"],
     tools:    ["Git", "Vercel", "Railway"]
   },
 
-  offline: "fotografiando, viajando o buscando el mejor padthai",
+  offline: [
+    "Travel",
+    "Product Design",
+    "Frontend Architecture",
+    "Artificial Intelligence"
+  ]
 };
 ```
 
@@ -36,7 +44,7 @@ const atkla = {
 
 <div align="center">
 
-**¿Hablamos?**
+**Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateca-vega/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateca.vega@gmail.com)
@@ -48,7 +56,7 @@ const atkla = {
 
 <div align="center">
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;"> Skills & Tools
+  Skills & Tools
 </h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40"/>
@@ -72,7 +80,6 @@ const atkla = {
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40"/>
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40"/>
-<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="40"/>
 <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="40"/>
 </p>
 </div>
@@ -81,21 +88,46 @@ const atkla = {
 <br>
 
 
-<h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB0MmVyeHpodHljbDY1dWZ5enJxNnRvbDRsMnNjeGJlZnB5ejRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhJswmxbeytYd6MMUU/giphy.gif" width="30" style="margin-right: 10px;"/> Nimbag — en producción
+<h2 align="center">
+  One More Mapp
 </h2>
 
 <div align="center">
 
-*Tu asistente inteligente para preparar el equipaje perfecto.*
+*Your personal travel map. Plan, remember and organize every adventure in one place.*
+
+**Plan Trips** • **Collect Countries** • **Save Places** • **Share Experiences**
+
+<img src="./assets/onemoremapp.png" alt="One More Mapp" width="700"/>
+
+[![Coming Soon](https://img.shields.io/badge/COMING_SOON-F59E0B?style=for-the-badge&logo=rocket&logoColor=white)](https://onemoremapp.com)
+[![View Landing](https://img.shields.io/badge/VIEW_LANDING-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onemoremapp.com)
+
+`Nuxt 3` `TypeScript` `PostgreSQL` `Tailwind CSS`
+
+Everything you need to remember, plan and share your journeys. An interactive travel map to collect visited countries, save memorable places, organize future adventures and connect with fellow travelers.
+
+</div>
+
+<br>
+
+
+<h2 align="center" style="display: flex; align-items: center; justify-content: center;">
+  Nimbag
+</h2>
+
+<div align="center">
+
+*Your intelligent travel packing assistant.*
 
 <img src="./assets/nimbag.png" alt="Captura de Nimbag" width="700"/>
 
-[![Ver en producción](https://img.shields.io/badge/🌐%20nimbag.com-VER%20APP-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
+[![Live Demo](https://img.shields.io/badge/🌐%20nimbag.com-LIVE_DEMO-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
-![TFG](https://img.shields.io/badge/proyecto-TFG%20DAW%202026-blueviolet)
+![Project](https://img.shields.io/badge/project-DAW%20Final%20Project%202026-blueviolet)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![Status](https://img.shields.io/badge/status-production-success)
+
 
 `Vue.js 3` `Pinia` `Node.js` `PostgreSQL` `API REST` `Vercel` `Railway`
 
@@ -105,73 +137,75 @@ const atkla = {
 
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxM2I3MmJ5eWZhaGdzNTdieDE0MWRmcDYxM3VhNjk1dmJrdTh2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGFC33vTgnRiFBF1Ya/giphy.gif" width="30" style="margin-right: 10px;"/> MythicApp
+  MythicApp
 </h2>
 
 <div align="center">
   
-*Todo empezó con un mito. ¿Eres capaz de recordarlos?*
- 
-**80 preguntas** • **4 civilizaciones** • **27 mitos y leyendas**
+*It all started with a myth. Can you remember them all?*
+
+**80 Questions** • **4 Civilizations** • **27 Myths & Legends**
  
 <img src="./assets/mythicapp.png" alt="Captura de la web de MythicApp" width="700"/>
 
-[![Jugar Ahora](https://img.shields.io/badge/JUGAR_AHORA-FFD84D?style=for-the-badge&logoColor=black)](https://atkla.github.io/Mythicapp/)
-[![Ver Codigo](https://img.shields.io/badge/VER_CODIGO-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
-[![Reportar Bug](https://img.shields.io/badge/REPORTAR_BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
+[![Play Now](https://img.shields.io/badge/PLAY_NOW-FFD84D?style=for-the-badge&logoColor=black)](https://atkla.github.io/Mythicapp/)
+[![View Code](https://img.shields.io/badge/VIEW_CODE-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkla/Mythicapp)
+[![Report Bug](https://img.shields.io/badge/REPORT_BUG-FF6B35?style=for-the-badge)](https://github.com/atkla/Mythicapp/issues/new?labels=bug)
  
 `React 19` `Vite` `Tailwind CSS v4` `JavaScript`
  
-![Estado](https://img.shields.io/badge/estado-activo-success)
+![Status](https://img.shields.io/badge/status-active-success)
 ![Version](https://img.shields.io/badge/version-2.0-success)
- 
-Biblioteca interactiva de mitología egipcia, griega, romana y vikinga.
-Quiz de 80 preguntas, mitos con fuentes originales y fichas de personajes legendarios.
- 
-Agradezco cualquier feedback o reporte de issues para seguir mejorando la aplicación.
+
+An interactive mythology library featuring Egyptian, Greek, Roman and Norse mythology.
+
+Explore legendary characters, discover original sources and challenge yourself with an 80-question quiz.
+
+Feedback, suggestions and bug reports are always welcome!
  
 </div>
 
 <br>
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b2Yybm5ramp0dGVmMGF5eHQ1NWs4cXR6YXZjamc1enhvYWlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30" style="margin-right: 10px;"/> Repasa. Aprueba. Repite.
+  Exam Prep Platform
 </h2>
 
 <div align="center">
   
-*Tests por unidad formativa, preguntas aleatorias y análisis de resultados.*
+*Practice by learning unit, answer random questions and track your progress.*
 <br>
-**360 preguntas** • **3 módulos DAW** • **Prepárate para tus exámenes**
+**360 Questions** • **3 DAW Modules** • **Prepare for Your Exams**
 
 <img src="./assets/repasa..png" alt="Captura de la plataforma de repaso de exámenes" width="700"/>
 
 <br>
 
-[![Probar aplicación](https://img.shields.io/badge/PROBAR_APP-2ecc71?style=for-the-badge&logo=vercel&logoColor=white)](https://repaso-examenes.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2ecc71?style=for-the-badge&logo=githubpages&logoColor=white)](https://atkla.github.io/Repaso_examenes/)
 
 <br>
 
 `JavaScript` `HTML5` `CSS3` `Exam Prep` `Education`
 
-**Módulos cubiertos:** DWES (0613) • Despliegue (0614) • Ciberseguridad
+**Modules covered:** DWES (0613) • Deployment (0614) • Cybersecurity
 
 </div>
 
 <br>
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN3ZTE0aHZ2amdwbWtmNzFsNTV5dXBuOW9rbWkyN3V1ZzNidWI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30" style="margin-right: 10px;"/> Estándares y Metodología
+  Git Workflow Guide
 </h2>
 
+Keep your repositories clean and your commit history meaningful.
 
-Para mantener un código limpio y un historial de versiones profesional. Puedes descargar mi **Guía Maestra de Git** pinchando en la imagen:
+You can download my **Git Workflow Guide** by clicking on the image below.
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png">
     <img src="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png" alt="ATKLA Git Master Guide" width="90%"/>
   </a>
-  <p><i>"Nombres claros, historial limpio, equipos felices"</i></p>
+  <p><i>"Clear names, clean history, happy teams."</i></p>
 </div>
 
 ---
