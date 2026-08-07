@@ -22,20 +22,12 @@ const atkla = {
     "One More Mapp — Travel planning & interactive map platform",
     "Nimbag — AI-powered travel packing assistant"
   ],
-
-  stack: {
-    frontend: ["Vue.js", "Nuxt 3", "React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Vite"],
-    backend:  ["Node.js", "Express", "PHP", "Laravel", "REST APIs"],
-    data:     ["PostgreSQL", "MySQL", "MongoDB"],
-    design:   ["Figma", "UX/UI", "Accessibility"],
-    tools:    ["Git", "Vercel", "Railway"]
-  },
-
   offline: [
     "Travel",
     "Product Design",
-    "Frontend Architecture",
-    "Artificial Intelligence"
+    "Photography",
+    "Artificial Intelligence",
+    "Nature",
   ]
 };
 ```
@@ -185,11 +177,12 @@ Feedback, suggestions and bug reports are always welcome!
   Git Workflow Guide
 </h2>
 
+<div align="center">
+  
 Keep your repositories clean and your commit history meaningful.
 
 You can download my **Git Workflow Guide** by clicking on the image below.
 
-<div align="center">
   <a href="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png">
     <img src="https://raw.githubusercontent.com/ATKLA/ATKLA/main/assets/GIT.png" alt="ATKLA Git Master Guide" width="90%"/>
   </a>
