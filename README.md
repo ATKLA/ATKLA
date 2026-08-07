@@ -108,7 +108,7 @@ Everything you need to remember, plan and share your journeys. An interactive tr
 
 *Your intelligent travel packing assistant.*
 
-<img src="./assets/Nimbag.png" alt="Captura de Nimbag" width="700"/>
+<img src="./assets/nimbag.png" alt="Captura de Nimbag" width="700"/>
 
 [![Live Demo](https://img.shields.io/badge/🌐%20nimbag.com-LIVE_DEMO-FBBF24?style=for-the-badge&logoColor=black&labelColor=1E293B)](https://www.nimbag.com)
 
