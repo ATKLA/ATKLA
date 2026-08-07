@@ -86,7 +86,7 @@ const atkla = {
 
 **Plan Trips** • **Collect Countries** • **Save Places** • **Share Experiences**
 
-<img src="./assets/onemoremapp.png" alt="One More Mapp" width="700"/>
+<img src="./assets/omm.png" alt="One More Mapp" width="700"/>
 
 [![Coming Soon](https://img.shields.io/badge/COMING_SOON-F59E0B?style=for-the-badge&logo=rocket&logoColor=white)](https://onemoremapp.com)
 [![View Landing](https://img.shields.io/badge/VIEW_LANDING-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onemoremapp.com)
